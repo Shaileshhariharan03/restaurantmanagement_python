@@ -1,0 +1,2 @@
+# restaurantmanagement_python
+Restaurant Management software is designed using SQL as the Backend and Python as front end. SQL is a structured query language which facilitates the storage of databases in the form of tables. Python is one of the emerging programming languages which is widely used by many organizations for software development process. Thus with the help of these two softwares this project has been developed
