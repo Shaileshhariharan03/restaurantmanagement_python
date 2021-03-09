@@ -38,7 +38,7 @@ Based on the primary objective the following secondary objectives are framed
 2. To design user menu with functions like food menu maintenance, branches maintenance, and viewing the booking details.
 3. To design others menu for customer to perform functions like viewing food menu, ordering food and giving feedback for orders
 
-System requirements & SpeciCications
+System requirements & Specifications:
 Front End (Python):
 Processors: Intel® CoreTM i5 processor 4300M at 2.60 GHz or 2.59 GHz (1 socket, 2 cores, 2 threads per core), 8 GB of DRAM Intel® Xeon® processor E5-2698 v3 at 2.30 GHz (2 sockets, 16 cores each, 1 thread per core), 64 GB of DRAM Intel® Xeon PhiTM processor 7210 at 1.30 GHz (1 socket, 64 cores, 4 threads per core), 32 GB of DRAM, 16 GB of MCDRAM (Nlat mode enabled)
 Disk space: 2 to 3 GB
