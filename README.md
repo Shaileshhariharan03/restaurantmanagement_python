@@ -3,6 +3,7 @@ Restaurant Management software is designed using SQL as the Backend and Python a
 A restaurant is a business that prepares and serves food and drinks to customers. This project is designed with the different menus to do the basic operations of a restaurant. The software can be used by restaurants to do their business in an easy and efNicient way.
 The project has three logins namely admin, user and others. Admin is being created to have overall control of managing the entire software except editing the feedback given by the customers. Users have rights to add/delete a food menu, add a branch, view the booking details. Others login is designated for customers. They can view the food menu, add a booking, add or delete the feedback for their orders.
 Admin login includes the following sub menus
+
 1. Food menu
 2. Stock
 3. Branches
@@ -11,17 +12,23 @@ Admin login includes the following sub menus
 6. Booking
 7. Feedback
 8. Exit
+
 The Users login include submenus like
 1. Food menu
 2. Branches
 3. Booking
 4. Exit
-The others login include 1. Food menu
+
+The others login include
+1. Food menu
 2. Booking
 3. Feedback
 4. Exit
+
 The project is designed in such a way that if more than two operations are performed in the same login, then it will ask for password for security reasons.
+
 Objectives:
+
 This project is designed with the following objectives
 Primary objective:
 1. To design a restaurant management system using SQL as backend and Python as front end.
@@ -30,6 +37,7 @@ Based on the primary objective the following secondary objectives are framed
 1. To design an Admin menu with functions like Food Menu maintenance, Stock maintenance, branches maintenance, staff info maintenance, Accounts maintenance, Booking details maintenance and feedback view.
 2. To design user menu with functions like food menu maintenance, branches maintenance, and viewing the booking details.
 3. To design others menu for customer to perform functions like viewing food menu, ordering food and giving feedback for orders
+
 System requirements & SpeciCications
 Front End (Python):
 Processors: Intel® CoreTM i5 processor 4300M at 2.60 GHz or 2.59 GHz (1 socket, 2 cores, 2 threads per core), 8 GB of DRAM Intel® Xeon® processor E5-2698 v3 at 2.30 GHz (2 sockets, 16 cores each, 1 thread per core), 64 GB of DRAM Intel® Xeon PhiTM processor 7210 at 1.30 GHz (1 socket, 64 cores, 4 threads per core), 32 GB of DRAM, 16 GB of MCDRAM (Nlat mode enabled)
